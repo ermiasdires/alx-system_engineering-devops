@@ -1,0 +1,4 @@
+#!/bin/bash
+git add .
+git commit -m "AUTOMATED_GIT_MESSAGE"
+git push
